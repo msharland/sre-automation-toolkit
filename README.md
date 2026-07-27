@@ -1,2 +1,2 @@
-# sre-automation-toolkit
+# SRE Automation Toolkit
 SRE Automation Toolkit
