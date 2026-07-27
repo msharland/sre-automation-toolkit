@@ -398,6 +398,20 @@ FodyWeavers.xsd
 # macOS
 .DS_Store
 .AppleDouble
+
+# Local development configuration and secrets
+**/appsettings.Local.json
+**/appsettings.*.Local.json
+.env
+.env.*
+!.env.example
+
+# Test and coverage artifacts
+[Tt]est[Rr]esults/
+coverage/
+coverage-report/
+htmlcov/
+*.trx
 .LSOverride
 
 # Thumbnails
