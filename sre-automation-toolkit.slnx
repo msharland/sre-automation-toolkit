@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="api-sre-automation-toolkit/SreAutomationToolkit.Api.csproj" />
   <Project Path="cli-sre-automation-toolkit/SreAutomationToolkit.Cli.csproj" Id="9db62f43-ef1a-45ce-8abe-e1ab8a49457c" />
+  <Project Path="SreAutomationToolkit.AutomationEngine/SreAutomationToolkit.AutomationEngine.csproj" Id="5462e764-2843-450d-b33d-7336d4742b6d" />
   <Project Path="SreAutomationToolkit.Core/SreAutomationToolkit.Core.csproj" Id="40b6f239-aa62-4d6d-8010-5d620e309fd1" />
 </Solution>
