@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="api-sre-automation-toolkit/api-sre-automation-toolkit.csproj" />
+  <Project Path="cli-sre-automation-toolkit/cli-sre-automation-toolkit.csproj" Id="9db62f43-ef1a-45ce-8abe-e1ab8a49457c" />
 </Solution>
