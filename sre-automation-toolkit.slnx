@@ -7,5 +7,9 @@
     <Project Path="src/SreAutomationToolkit.Mobile/SreAutomationToolkit.Mobile.csproj" />
     <Project Path="src/SreAutomationToolkit.Ui/SreAutomationToolkit.Ui.csproj" />
   </Folder>
-  <Folder Name="/tests/" />
+  <Folder Name="/tests/">
+    <Project Path="tests/SreAutomation.Toolkit.Cli.Tests/SreAutomation.Toolkit.Cli.Tests.csproj" />
+    <Project Path="tests/SreAutomationToolkit.Api.Test/SreAutomationToolkit.Api.Tests.csproj" Id="6e209476-1434-46d3-9568-e9ba993503e3" />
+    <Project Path="tests/SreAutomationToolkit.Ui.Tests/SreAutomationToolkit.Ui.Tests.csproj" Id="b2b4f65d-0b5f-444d-b66e-5a119d8535b4" />
+  </Folder>
 </Solution>
