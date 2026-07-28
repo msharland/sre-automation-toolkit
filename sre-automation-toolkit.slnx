@@ -1,11 +1,11 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="SreAutomationToolkit.Api/SreAutomationToolkit.Api.csproj" />
-    <Project Path="SreAutomationToolkit.AutomationEngine/SreAutomationToolkit.AutomationEngine.csproj" Id="5462e764-2843-450d-b33d-7336d4742b6d" />
-    <Project Path="SreAutomationToolkit.Cli/SreAutomationToolkit.Cli.csproj" />
-    <Project Path="SreAutomationToolkit.Core/SreAutomationToolkit.Core.csproj" Id="40b6f239-aa62-4d6d-8010-5d620e309fd1" />
-    <Project Path="SreAutomationToolkit.Mobile/SreAutomationToolkit.Mobile.csproj" Id="678434d7-8380-4cd9-bbc3-20a384889bf5" />
-    <Project Path="SreAutomationToolkit.Ui/SreAutomationToolkit.Ui.csproj" Id="c7f8f4a7-f303-4ddf-82f0-ae9e55aad529" />
+    <Project Path="src/SreAutomationToolkit.Api/SreAutomationToolkit.Api.csproj" />
+    <Project Path="src/SreAutomationToolkit.AutomationEngine/SreAutomationToolkit.AutomationEngine.csproj" />
+    <Project Path="src/SreAutomationToolkit.Cli/SreAutomationToolkit.Cli.csproj" />
+    <Project Path="src/SreAutomationToolkit.Core/SreAutomationToolkit.Core.csproj" Id="40b6f239-aa62-4d6d-8010-5d620e309fd1" />
+    <Project Path="src/SreAutomationToolkit.Mobile/SreAutomationToolkit.Mobile.csproj" />
+    <Project Path="src/SreAutomationToolkit.Ui/SreAutomationToolkit.Ui.csproj" />
   </Folder>
   <Folder Name="/tests/" />
 </Solution>
